@@ -52,5 +52,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries, reach out at [[your-email@example.com](mailto\:your-email@example.com)] or visit the GitHub Issues section.
+For any queries, reach out at [[your-email@example.com](mailto\nilmandal098@gmailcom)] or visit the GitHub Issues section.
 
